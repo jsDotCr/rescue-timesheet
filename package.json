@@ -1,0 +1,30 @@
+{
+  "name": "rescuetime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "dev": "next",
+    "dev:now": "now dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "isomorphic-unfetch": "^3.0.0",
+    "luxon": "^1.21.0",
+    "next": "^9.1.2",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  },
+  "devDependencies": {
+    "@now/node": "^1.0.2",
+    "@types/dotenv": "^8.2.0",
+    "@types/luxon": "^1.15.2",
+    "@types/react": "^16.9.11",
+    "now": "^16.4.4",
+    "typescript": "^3.6.4"
+  }
+}
