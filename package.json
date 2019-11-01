@@ -2,15 +2,15 @@
   "name": "rescuetime",
   "version": "1.0.0",
   "description": "",
-  "main": "index.mjs",
+  "main": "pages/index.tsx",
   "scripts": {
     "dev": "next",
     "dev:now": "now dev",
     "build": "next build",
     "start": "next start"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "jsDotCr",
+  "license": "WTFPL",
   "dependencies": {
     "dotenv": "^8.1.0",
     "isomorphic-unfetch": "^3.0.0",
