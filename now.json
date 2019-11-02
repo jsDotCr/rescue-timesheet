@@ -1,5 +1,6 @@
 {
   "env": {
+    "API": "@api",
     "KEY": "@key"
   }
 }
